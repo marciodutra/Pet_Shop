@@ -44,7 +44,7 @@
                             $('#alerttext').hide();
                             $('#myalert2').hide();
                             $('#alerttext2').hide();
-                            window.location='/Petshop_Management_System/main-customer.php';
+                            window.location='/Pet_Shop/main-customer.php';
                             // setTimeout(function(){
                             //  location.reload();
                             // }, 1000);
