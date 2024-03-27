@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Pet shop Management System</title>
+    <title>Pet shop Márcio Dutra</title>
     <meta name="description" content="Sufee Admin - HTML5 Admin Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -43,7 +43,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <div class="">
-                    <h3 style="color: #fff"><img src="images/5889338.png" height="35px" width="35px">&nbsp;&nbsp;PSMS Vendor</h3>
+                    <h3 style="color: #fff"><img src="images/5889338.png" height="35px" width="35px">&nbsp;&nbsp;Pet Shop</h3>
    
                 </div>
                 <a class="navbar-brand hidden" href="./"><img src="images/logo2.png" alt="Logo"></a>
@@ -56,7 +56,7 @@
                     </li>
 
                    <li class="active">
-                        <a href="vendor-order.php"> <i class="menu-icon fa fa-list-alt"></i>List of Orders </a>
+                        <a href="vendor-order.php"> <i class="menu-icon fa fa-list-alt"></i>Lista de pedidos </a>
                     </li>
 
                  

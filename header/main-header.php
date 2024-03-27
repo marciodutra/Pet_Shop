@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Pet shop Management System</title>
+    <title>Pet shop Mário Dutram</title>
     <meta name="description" content="Sufee Admin - HTML5 Admin Template">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -43,7 +43,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <div class="">
-                    <h3 style="color: #fff"><img src="images/5889338.png" height="35px" width="35px">&nbsp;&nbsp;PSMS Admin</h3>
+                    <h3 style="color: #fff"><img src="images/5889338.png" height="35px" width="35px">&nbsp;&nbsp;Pet Shop</h3>
    
                 </div>
                 <a class="navbar-brand hidden" href="./"><img src="images/logo2.png" alt="Logo"></a>
@@ -57,31 +57,31 @@
                     <li class="menu-item-has-children dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-paw"></i>Pets</a>
                         <ul class="sub-menu children dropdown-menu">
-                            <li><i class="fa fa-circle"></i><a href="category.php">Category</a></li>
-                            <li><i class="fa fa-circle"></i><a href="pet_management.php">Management</a></li>
-                            <li><i class="fa fa-circle"></i><a href="category_product.php">Product Category</a></li>
-                            <li><i class="fa fa-circle"></i><a href="product.php">Product</a></li>
+                            <li><i class="fa fa-circle"></i><a href="category.php">Categoria</a></li>
+                            <li><i class="fa fa-circle"></i><a href="pet_management.php">Gerenciamento</a></li>
+                            <li><i class="fa fa-circle"></i><a href="category_product.php">Categoria de Produto</a></li>
+                            <li><i class="fa fa-circle"></i><a href="product.php">Produto</a></li>
 
                         </ul>
                     </li>
                     <li class="menu-item-has-children dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-users"></i>Management</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-users"></i>Gerenciamento</a>
                         <ul class="sub-menu children dropdown-menu">
-                            <li><i class="fa fa-circle"></i><a href="client_form.php">Client Form</a></li>
-                            <li><i class="fa fa-circle"></i><a href="services.php">Service</a></li>
-                            <li><i class="fa fa-circle"></i><a href="order.php">Order</a></li>
-                            <li><i class="fa fa-circle"></i><a href="vendor.php">Vendor</a></li>
-                            <li><i class="fa fa-circle"></i><a href="user.php">User</a></li>
+                            <li><i class="fa fa-circle"></i><a href="client_form.php">Formulário de cliente</a></li>
+                            <li><i class="fa fa-circle"></i><a href="services.php">Serviço</a></li>
+                            <li><i class="fa fa-circle"></i><a href="order.php">Ordem</a></li>
+                            <li><i class="fa fa-circle"></i><a href="vendor.php">Fornecedor</a></li>
+                            <li><i class="fa fa-circle"></i><a href="user.php">Usuário</a></li>
                         </ul>
                     </li>
                    <li class="active">
-                         <a href="payment.php"> <i class="menu-icon fa fa-money"></i>Payment </a>
+                         <a href="payment.php"> <i class="menu-icon fa fa-money"></i>Pagamento </a>
                     </li>
                    <li class="active">
-                        <a href="orderdetail.php"> <i class="menu-icon fa fa-list-alt"></i>Order Detail </a>
+                        <a href="orderdetail.php"> <i class="menu-icon fa fa-list-alt"></i>Detalhes do pedido </a>
                     </li>
                     <li class="active">
-                        <a href="usergroup.php"> <i class="menu-icon fa fa-cog"></i>User Control </a>
+                        <a href="usergroup.php"> <i class="menu-icon fa fa-cog"></i>Controle de usuário </a>
                     </li>
                  
             </div>
